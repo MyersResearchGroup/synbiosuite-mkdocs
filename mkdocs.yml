@@ -1,4 +1,4 @@
-site_name: SynBioHub2 Docs
+site_name: SynBioSuite Docs
 theme:
   features:
     - navigation.instant
@@ -34,3 +34,6 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css

@@ -9,12 +9,12 @@ theme:
   favicon: images/favicon.ico
   palette:
     - scheme: default
-      primary: orange
+      primary: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: deep orange
+      primary: indigo
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
